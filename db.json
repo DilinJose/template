@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "name": "Dilin",
+      "email": "dilin@gmail.com",
+      "cAddress": "asd",
+      "pAddress": "asd",
+      "phNo": "U2FsdGVkX19Rz0qeoRXFXSI5djVldbJLAzpiYMJtG4I=",
+      "id": 1
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
